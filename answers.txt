@@ -9,4 +9,8 @@ Answer: Data science could be applied to fiance and business; use data to track 
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer:Merging combines two branches and rebasing commits changes on the top of another branch. 
+Answer:Merging combines two branches and rebasing commits changes on the top of another branch.
+ 
+Q4: What are you looking forward to this semester?
+
+Answer: Excited to learn SQL because I learned a little at my internship. 
